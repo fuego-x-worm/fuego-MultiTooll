@@ -41,7 +41,7 @@ apt upgrade -y
 clear
 echo -e "\033[47;3;35m Update completed...\033[0m"
 sleep 3
-bash alhack.sh
+bash english.sh
 
 elif [[ $islem == 2 || $islem == 02 ]]; then
 clear
@@ -107,7 +107,7 @@ echo "YouTube Video: https://www.youtube.com/watch?v=zgdq6ErscqY"
 python3 -m webbrowser https://www.youtube.com/watch?v=zgdq6ErscqY
 sleep 10
 echo "Wait 10 seconds"
-bash alhack.sh
+bash english.sh
 
  
 elif [[ $islem == 8 || $islem == 08 ]]; then
@@ -116,7 +116,7 @@ echo -e "\033[47;3;35m REMOVING DOWNLOADED PROGRAMS...\033[0m"
 sleep 3 
 rm -rf Tools
 
-bash alhack.sh
+bash english.sh
 
 elif [[ $islem == 9 || $islem == 09 ]]; then
 clear
@@ -243,5 +243,5 @@ else
         echo -e '\033[36;40;1m You entered an invalid code'	
 	sleep 1
 	clear 
-	bash alhack.sh
+	bash english.sh
 fi
