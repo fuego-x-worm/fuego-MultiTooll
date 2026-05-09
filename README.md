@@ -22,7 +22,7 @@ works on any of the following operating systems:
 * Open the terminal and type `<pkg install git>`
 * Then`<git clone https://github.com/fuego-x-worm/fuego-MultiTooll>`
 * `<cd fuego-MultiTooll>`
-* `<bash Multi-Tool.sh>`
+* `<bash alhack.sh>`
 
 
 # Warning
